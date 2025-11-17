@@ -5,7 +5,7 @@
 void main()
 {
   setlocale(LC_ALL, "Portuguese");
-  /* Exercício 2.17*/
+  /* ExercÃ­cio 2.17*/
   /* a */
   printf("1 2 3 4 \n");
   /* b */
