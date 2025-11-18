@@ -1,6 +1,6 @@
 # C Programming Portfolio 🚀
 
-A comprehensive collection of C programs demonstrating fundamental programming concepts, mathematical operations, and problem-solving skills.
+A collection of C programs demonstrating fundamental programming concepts, mathematical operations, and problem-solving skills.
 
 ## 📂 Project Structure
 
