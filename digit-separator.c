@@ -9,7 +9,7 @@ int main()
 
     int num, digito1, digito2, digito3, digito4, digito5;
 
-    printf("Digite um número de 5 digitos:");
+    printf("Digite um nÃºmero de 5 digitos:");
     scanf("%d",&num);
 
     if (num>9999 && num<100000){
