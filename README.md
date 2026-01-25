@@ -42,6 +42,7 @@ Numeric analysis, verification, and manipulation
 - `balanced_number_checker.c` - Balanced number verifier (7 digits)
 - `two_digit_number_reverse.c` - Two-digit number reverser
 - `three_digit_number_reverse.c` - Three-digit number reverser
+- `number_digit_decomposition.c` - Three-digit separator according to their positions 
 
 ### [04-Data-Manipulation](04-Data-Manipulation/) 🔄
 Data and variable manipulation techniques
